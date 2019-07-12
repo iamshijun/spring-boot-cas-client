@@ -1,0 +1,39 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "xyz.asitanokibou.cas.CasProperties",
+      "name": "cas",
+      "type": "xyz.asitanokibou.cas.CasProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "xyz.asitanokibou.cas.CasProperties",
+      "defaultValue": 1,
+      "name": "cas.filter-init-order",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "xyz.asitanokibou.cas.CasProperties",
+      "name": "cas.ignore-pattern",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "xyz.asitanokibou.cas.CasProperties",
+      "name": "cas.server-login-url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "xyz.asitanokibou.cas.CasProperties",
+      "name": "cas.server-url-prefix",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "xyz.asitanokibou.cas.CasProperties",
+      "name": "cas.validate-url",
+      "description": "如果为空的话 使用 serverLoginUrl",
+      "type": "java.lang.String"
+    }
+  ]
+}

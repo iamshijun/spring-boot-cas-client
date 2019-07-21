@@ -1,5 +1,5 @@
 .idea/
-spring-boot-cas-client.iml
+*.iml
 target/
 build/
 .DS_Store

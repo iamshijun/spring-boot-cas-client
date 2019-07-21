@@ -5,8 +5,23 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>xyz.asitanokibou</groupId>
-    <artifactId>spring-boot-cas-client</artifactId>
+    <artifactId>spring-boot-starter-cas-client</artifactId>
     <version>1.5.21</version>
+
+    <scm>
+        <tag>master</tag>
+        <url>https://github.com/iamshijun/spring-boot-starter-cas-client</url>
+        <connection>scm:git:git@github.com:iamshijun/spring-boot-starter-cas-client.git</connection>
+        <developerConnection>scm:git:git@github.com:iamshijun/spring-boot-starter-cas-client.git</developerConnection>
+    </scm>
+    <developers>
+        <developer>
+            <name>shijun.shi</name>
+            <email>aimysaber@gmail.com</email>
+            <organization>xyz.asitanokibou</organization>
+        </developer>
+    </developers>
+
 
     <parent>
         <groupId>org.springframework.boot</groupId>
